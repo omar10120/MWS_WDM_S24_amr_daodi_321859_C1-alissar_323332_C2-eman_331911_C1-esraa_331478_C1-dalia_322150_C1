@@ -16,7 +16,7 @@ function App() {
   return (
     <>
         <Navbar/>
-    <div className="container mx-auto " >
+    <div className="container mx-auto   containerApp" >
         <Student/>
         <Card/>
         <Information/>
