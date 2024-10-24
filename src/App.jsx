@@ -17,7 +17,6 @@ function App() {
     <>
         <Navbar/>
     <div className="container mx-auto " >
-
         <Student/>
         <Card/>
         <Information/>
