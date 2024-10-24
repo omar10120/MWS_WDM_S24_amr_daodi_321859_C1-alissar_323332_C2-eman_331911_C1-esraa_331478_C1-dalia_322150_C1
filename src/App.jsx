@@ -15,10 +15,13 @@ function App() {
 
   return (
     <>
-      <Navbar/>
-      <Student/>
-      <Card/>
-      <Information/>
+    <div className="container mx-auto " >
+
+        <Navbar/>
+        <Student/>
+        <Card/>
+        <Information/>
+    </div>
     </>
   )
 }
